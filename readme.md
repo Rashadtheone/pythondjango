@@ -17,6 +17,8 @@
     - Scope still matters. 
     - .get and key value pairs are interchangable
 
+[Link To Repo!](https://github.com/Rashadtheone/djangotrail)
+
 ##Django Tunr
     - Create Directory 
         - python3 -m venv myvenv 
@@ -44,7 +46,17 @@
         - python manage.py makemigrations appName
     - Apply Migrations  
         - python manage.py migrate appName
+    - Apply ALL Migrations ! 
+        - python manage.py migrate
 
+
+    What did you decide to learn today?
+        Today I learned about Django, and the basic syntax of python    
+    Why did you want to learn it?
+        I've heard Python and Django make a good Stack
+    What did you do to try and learn it? What process did you follow?
+        I worked in a group with Wade and Shelly, we covered some tutorials,
+        and knocked out some basic application builds. 
 
 
 
